@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **software engenier**
-
-- 🤝 I’m looking for help with **Desarrollo de software**
+- 👯 I’m looking to collaborate on **Software engenier**
 
 - 💬 Ask me about **Nodejs**
 
