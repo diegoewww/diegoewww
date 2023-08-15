@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-- 🔭 I’m currently working on **100devs**
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Software engenier**
